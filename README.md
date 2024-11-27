@@ -36,8 +36,5 @@ laba6-main/
 pip3 install -r requirements.txt
 ```
 ```
-python train_model.py 
-```
-```
 pip install run.py
 ```
