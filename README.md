@@ -1,4 +1,10 @@
-# install requirements
+# Над лабараторнгой работой работали:
+
+Коновод Кирилл
+
+Лихачев михаил
+
+# install pip requirements:
 
 pip install fastapi uvicorn jinja2 joblib
 
