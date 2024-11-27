@@ -30,3 +30,14 @@ laba6-main/
 └── run.py               # Скрипт для запуска сервера (альтернатива uvicorn)
 
 ```
+
+# Как запускать
+```
+pip3 install -r requirements.txt
+```
+```
+python train_model.py 
+```
+```
+pip install run.py
+```
