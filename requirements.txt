@@ -2,3 +2,4 @@ joblib
 jinja2
 uvicorn
 fastapi
+scikit-learn
