@@ -2,7 +2,8 @@ from fastapi import FastAPI, Form, HTTPException
 from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
-from sklearn.externals import joblib  # Для загрузки модели
+import joblib
+
 from sklearn.datasets import load_iris
 import numpy as np
 
