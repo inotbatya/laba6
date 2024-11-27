@@ -1,10 +1,11 @@
 # Над лабараторнгой работой работали:
 Студенты группы к.205с9-4
-
+```
 Коновод Кирилл
-
+```
+```
 Лихачев Михаил
-
+```
 # install pip requirements:
 ```
 pip install fastapi uvicorn jinja2 joblib
